@@ -28,7 +28,7 @@ td,th{padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-s
 
 .contents.widget-content{padding:15px}
 
-div#match_today h2{text-align:center;padding:10px;background:#532855;color:#fff}
+div#match_today h2{text-align:center;padding:10px;background:#ff4500;color:#fff}
 
 /*mnajiri*/
 
@@ -52,7 +52,7 @@ background:#DCEDC8;}
 
 /*mnajiri*/
 
-.mnajiri img{background-color:#fff;border-bottom:3px solid #532855;height:50px;padding:4px;position:absolute;width:50px;border-radius:50%;box-shadow:0 2px 5px rgba(0,0,0,0.1),0 2px 5px -1px rgba(0,0,0,0.2);-webkit-transition:box-shadow .3s;transition:box-shadow .3s}
+.mnajiri img{background-color:#fff;border-bottom:3px solid #ff4500;height:50px;padding:4px;position:absolute;width:50px;border-radius:50%;box-shadow:0 2px 5px rgba(0,0,0,0.1),0 2px 5px -1px rgba(0,0,0,0.2);-webkit-transition:box-shadow .3s;transition:box-shadow .3s}
 
 /*mnajiri*/
 
@@ -102,11 +102,11 @@ background:#DCEDC8;}
 
 .details_match i{margin-left:5px}
 
-.details_match span{background-color:#532855;border-left:1px solid #fff;color:#fff;float:right;height:36px;line-height:36px;position:relative;text-align:center;width:33.3%}
+.details_match span{background-color:#ff4500;border-left:1px solid #fff;color:#fff;float:right;height:36px;line-height:36px;position:relative;text-align:center;width:33.3%}
 
 .details_match .liga_mdw{border:0 none}
 
-.first_match::before,.liga_mdw::before{background-color:#532855;content:"";height:36px;position:absolute;top:0;width:20px}
+.first_match::before,.liga_mdw::before{background-color:#ff4500;content:"";height:36px;position:absolute;top:0;width:20px}
 
 .first_match::before{transform:skew(-20deg);right:-12px;border-radius:0 0 8px}
 
@@ -146,7 +146,7 @@ background:#DCEDC8;}
 
 .najiri1{
 
-    background-color: #532855;
+    background-color: #E91E63;
 
 }
 
@@ -158,6 +158,6 @@ background:#DCEDC8;}
 
 .najiri3{
 
-    background-color: #4caf50;
+    background-color: #E91E63;
 
 }
